@@ -11,7 +11,12 @@
 - link apk : https://drive.google.com/file/d/0B9MsHMTlK-CMWTJlNjZyLXk1SUU/view?usp=sharing
 - link API : https://www.themoviedb.org/documentation/api
 
-Jenis Navigasi : Navigation Drawer Activity
+# Deskripsi Aplikasi
+Tujuan dari dibuatnya aplikasi ini adalah untuk lebih memudahkan user dalam mengupdate film-film terbaru yang akan tayang di bioskop. Dan juga bisa melihat film-film yang paling banyak dikunjungi, film-film yang sudah tersedia di bioskop. 
+
+# Lain-Lain
+- Jenis Navigasi : Navigation Drawer Activity
+- Library : Glide & Volley
 
 # Screenshot
 ![1](https://cloud.githubusercontent.com/assets/22068394/26032900/203f2c7a-38c9-11e7-8ebd-2e512f7f00a2.jpeg)
