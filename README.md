@@ -14,6 +14,9 @@
 # Deskripsi Aplikasi
 Tujuan dari dibuatnya aplikasi ini adalah untuk lebih memudahkan user dalam mengupdate film-film terbaru yang akan tayang di bioskop. Dan juga bisa melihat film-film yang paling banyak dikunjungi, film-film yang sudah tersedia di bioskop. 
 
+# Kelebihan Aplikasi
+Lebih mudah digunakan, lebih ringan aplikasinya. 
+
 # Lain-Lain
 - Jenis Navigasi : Navigation Drawer Activity
 - Library : Glide & Volley
