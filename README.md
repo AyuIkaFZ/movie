@@ -22,12 +22,12 @@ Lebih mudah digunakan, lebih ringan aplikasinya.
 - Library : Glide & Volley
 
 # Screenshot
-![1](https://cloud.githubusercontent.com/assets/22068394/26032900/203f2c7a-38c9-11e7-8ebd-2e512f7f00a2.jpeg)
-![2](https://cloud.githubusercontent.com/assets/22068394/26032899/202d10bc-38c9-11e7-94a0-54e178c28cc0.jpeg)
-![3](https://cloud.githubusercontent.com/assets/22068394/26032897/2029fc74-38c9-11e7-9a74-db218c004ce1.jpeg)
-![4](https://cloud.githubusercontent.com/assets/22068394/26032898/202befca-38c9-11e7-8a44-dd68c0a4dd2e.jpeg)
-![5](https://cloud.githubusercontent.com/assets/22068394/26032902/22773dfc-38c9-11e7-850f-88db197cd7d2.jpeg)
-![6](https://cloud.githubusercontent.com/assets/22068394/26032903/235199de-38c9-11e7-94e4-4182ee78cb24.jpeg)
-![7](https://cloud.githubusercontent.com/assets/22068394/26032904/2351cf62-38c9-11e7-8ad1-474ca7aaedd7.jpeg)
+![1](https://cloud.githubusercontent.com/assets/22068394/26042599/02285f2a-3961-11e7-85e2-3c8e0b2a422c.jpeg)
+![2](https://cloud.githubusercontent.com/assets/22068394/26042600/022cd848-3961-11e7-8217-cf1021102d52.jpeg)
+![3](https://cloud.githubusercontent.com/assets/22068394/26042601/022d51e2-3961-11e7-9aff-746780776315.jpeg)
+![4](https://cloud.githubusercontent.com/assets/22068394/26042598/01e1f044-3961-11e7-9f96-0af815f9015d.jpeg)
+![5](https://cloud.githubusercontent.com/assets/22068394/26042623/20a058e0-3961-11e7-9be5-5784ac1b12a0.jpeg)
+![6](https://cloud.githubusercontent.com/assets/22068394/26042621/202f2648-3961-11e7-80a2-53e15e6e6b85.jpeg)
+![7](https://cloud.githubusercontent.com/assets/22068394/26042622/202fa230-3961-11e7-8526-664c4598b536.jpeg)
 
 
